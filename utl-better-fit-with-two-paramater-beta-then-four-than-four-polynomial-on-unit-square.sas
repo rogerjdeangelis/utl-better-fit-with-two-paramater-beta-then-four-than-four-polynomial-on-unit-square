@@ -7,10 +7,11 @@ Better fit with two paramater beta then four than four polynomial on unit square
 
 
 HI RES GRAPHIC OUTPUT
-
-github
 https://tinyurl.com/m2xtstfj
 https://github.com/rogerjdeangelis/utl-better-fit-with-two-paramater-beta-then-four-than-four-polynomial-on-unit-square/blob/main/pltcum.png
+github                                                                                                          
+/tinyurl.com/54kd3y3v                                                                                           
+/github.com/rogerjdeangelis/utl-better-fit-with-two-paramater-beta-then-four-than-four-polynomial-on-unit-square
 
 
 OBSERVATIONS
